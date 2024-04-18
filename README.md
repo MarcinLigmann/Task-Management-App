@@ -2,6 +2,8 @@ DEMO LINK - https://marcinligmann.github.io/task-management-app/
 
 Front-end application "Todo List"
 
+🛠 technologies: React, Rest Api, JavaScript, TypeScript, HTML, CSS, SASS
+
 An application that allows you to save activities to be performed in a database.
 
 Functionalities related to the database:
@@ -16,4 +18,7 @@ functionalities for displaying database content:
 
 All functionalities are performed in the background of the application and included in the view after positive feedback from the database, they do not require reloading the page to properly visualize the database content.
 
-🛠 technologies: HTML, CSS, SASS, JavaScript, TypeScript, React, Rest Api
+Launching the application:
+To run the application after downloading it to your computer, simply enter two commands in the terminal:
+- npm install
+- npm start
